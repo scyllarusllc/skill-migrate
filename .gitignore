@@ -1,0 +1,7 @@
+.env
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+backups/
+*.log
+__pycache__/

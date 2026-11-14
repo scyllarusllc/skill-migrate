@@ -1,0 +1,3 @@
+interface:
+  display_name: "Skill Migrate"
+  short_description: "Move Pastebloom safely to a new VPS"
